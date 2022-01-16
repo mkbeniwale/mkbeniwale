@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mkbeniwale
+- 👋 Hi, I’m Mahebub
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking for job.
